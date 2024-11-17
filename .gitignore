@@ -1,0 +1,6 @@
+echo "__pycache__/"
+echo "*.pyc"
+echo "venv/"
+echo "env/"
+echo ".DS_Store"
+echo "files/output.hwp"
